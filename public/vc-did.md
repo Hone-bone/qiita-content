@@ -1,5 +1,5 @@
 ---
-title: VC、DIDとは何者？
+title: VC、DIDとは何者？🤔
 tags:
   - "vc"
   - "did"
@@ -21,19 +21,43 @@ ignorePublish: false
 
 <!-- タイトルとアンカー名を編集 -->
 
-1. [Chapter1](#Chapter1)
-1. [Chapter2](#Chapter2)
-1. [参考文献](#reference)
+1. [VC と DID の概要](#Chapter1)
+1. [デジタルアイデンティティとは？](#Chapter2)
+1. [Verifiable Credentials (VC) ](#Chapter3)
+1. [Decentralized Identifiers (DID) ](#Chapter4)
+1. [VC と DID の組み合わせ](#Chapter5)
+1. [技術的な挑戦と将来性](#Chapter6)
+1. [最後に](#Chapter7)
 
 <!-- 各チャプター -->
 
 <a id="#Chapter1"></a>
 
-# Chapter1
+# VC と DID の概要
 
 <a id="#Chapter2"></a>
 
-# Chapter2
+# デジタルアイデンティティとは？
+
+<a id="#Chapter3"></a>
+
+# Verifiable Credentials (VC)
+
+<a id="#Chapter4"></a>
+
+# Decentralized Identifiers (DID)
+
+<a id="#Chapter5"></a>
+
+# VC と DID の組み合わせ
+
+<a id="#Chapter6"></a>
+
+# 技術的な挑戦と将来性
+
+<a id="#Chapter7"></a>
+
+# 最後に
 
 <a id="#reference"></a>
 
