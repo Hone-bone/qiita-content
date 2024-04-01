@@ -1,5 +1,5 @@
 ---
-title: VC、DIDとは何者？🤔
+title: VC？DID？何それ？🤔
 tags:
   - "vc"
   - "did"
@@ -14,8 +14,7 @@ ignorePublish: false
 # はじめに
 
 デジタル証明書を作るぞ！となった際に調べたら必ず出てくる VC さんと DID さん。  
-この人たちはいったいなんたんだ？と思い、調べたものを自分なりにまとめたものを記事として書いております。  
-ここ間違っているよ！と言っていただける親切な方がいらっしゃいましたら教えていただけると大変助かります。
+この人たちはいったいなんたんだ？と思い、調べたものを自分なりにまとめたものを記事として書いております。
 
 # 目次
 
@@ -29,15 +28,11 @@ ignorePublish: false
 1. [技術的な挑戦と将来性](#Chapter6)
 1. [最後に](#Chapter7)
 
-<!-- 各チャプター -->
-
-<a id="#Chapter1"></a>
-
-# VC と DID の概要
-
 <a id="#Chapter2"></a>
 
 # デジタルアイデンティティとは？
+
+デジタルアイデンティティとは、オンラインでの私たちの身元を示す情報のこと。従来のアイデンティティは中央集権的な機関（X や Facebook など）によって管理されている。
 
 <a id="#Chapter3"></a>
 
@@ -46,6 +41,8 @@ ignorePublish: false
 <a id="#Chapter4"></a>
 
 # Decentralized Identifiers (DID)
+
+Decentralized Identifier
 
 <a id="#Chapter5"></a>
 
@@ -58,6 +55,9 @@ ignorePublish: false
 <a id="#Chapter7"></a>
 
 # 最後に
+
+最後まで読んでいただきありがとうございます！
+ここ間違っているよ！と言っていただける親切な方がいらっしゃいましたら教えていただけると大変助かります。
 
 <a id="#reference"></a>
 
